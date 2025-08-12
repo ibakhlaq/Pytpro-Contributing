@@ -1,4 +1,4 @@
-# pytpro-contributing
+# Contributing to pytpro
 
 <p align="center">
   <img src="https://i.postimg.cc/BjSmyvYv/download.png" width="200" alt="pytpro logo">
